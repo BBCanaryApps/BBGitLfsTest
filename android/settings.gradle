@@ -1,0 +1,3 @@
+rootProject.name = 'BBGitLfsTest'
+
+include ':app'
